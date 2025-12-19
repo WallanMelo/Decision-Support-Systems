@@ -1,0 +1,2 @@
+### Objective
+Investigate prediction, classification, or regression algorithms by developing a complete practical project, including problem formulation, data analysis, model implementation, and evaluation.
