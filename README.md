@@ -1,8 +1,8 @@
 ## Decision Support Systems
 Resolution of Exercises and Works of the Decision Support Systems Discipline offered by the Bachelor's Degree in Information Systems.
 
-##### Taught by Professor: Helder Seixas Lima
-Instituto Federal do Norte de Minas Gerais (IFNMG)
+**Taught by Professor: Helder Seixas Lima**
+Instituto Federal do Norte de Minas Gerais (**IFNMG**)
 
 ### Objective of the Course
 The course aims to introduce the fundamental concepts, methods, and technologies related to **Decision Support Systems (DSS/SAD)**, focusing on how computerized systems can assist individuals and organizations in the decision-making process.
